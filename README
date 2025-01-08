@@ -1,0 +1,11 @@
+Requirements:
+    pyhton3
+        sudo apt install python3 -y
+
+    pyyaml
+    aiohttp
+        pip install pyyaml aiohttp
+
+Use case:
+    pyhton3 app.py <file.yaml>
+
